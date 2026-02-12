@@ -59,6 +59,7 @@ seccompProfile:
 securityContext:
   enable: true
 
+
 adService:
   create: true
   name: adservice
